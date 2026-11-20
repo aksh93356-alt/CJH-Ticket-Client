@@ -4,7 +4,7 @@ A production-ready **Discord.js v14** ticket bot with auto-setup, strict private
 
 ## ⚡ One-line install (Ubuntu VPS)
 
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username (also edit `REPO_URL` at the top of `install.sh`).
+> Replace `aksh93356-alt` with your GitHub username (also edit `REPO_URL` at the top of `install.sh`).
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/aksh93356-alt/CJH-Ticket-Client/main/install.sh | sudo bash
