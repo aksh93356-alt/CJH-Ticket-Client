@@ -1,0 +1,19 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "ownerId": "123456789012345678",
+  "staffRoleIds": ["123456789012345678"],
+  "panelChannelId": "",
+  "panelChannelName": "open-ticket",
+  "categoryName": "CJH Tickets",
+  "logChannelId": "",
+  "panel": {
+    "title": "🎫 CJH Ticket Client",
+    "description": "Need help? Click the button below to open a private ticket.\n\nOur staff team will be with you shortly.",
+    "color": "#5865F2",
+    "footer": "CJH Ticket Client",
+    "buttonLabel": "Open Ticket",
+    "buttonEmoji": "🎫",
+    "buttonStyle": "Primary"
+  },
+  "guilds": {}
+}
